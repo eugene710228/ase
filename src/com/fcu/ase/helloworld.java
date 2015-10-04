@@ -1,4 +1,4 @@
-package com.fsc.ase;
+package com.fcu.ase;
 
 public class helloworld {
 
