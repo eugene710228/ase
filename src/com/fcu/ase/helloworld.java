@@ -5,8 +5,8 @@ public class helloworld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String aa="helloworld_master";
-		System.out.print(aa);
+		String bb="helloworld_master";
+		System.out.print(bb);
 		
 	}
 
