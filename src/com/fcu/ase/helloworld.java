@@ -8,6 +8,7 @@ public class helloworld {
 		String bb="helloworld_master";
 		System.out.print(bb);
 		System.out.println("Welcome to course of software engineering !!!");
+		String id="allpower";
 	}
 
 }
